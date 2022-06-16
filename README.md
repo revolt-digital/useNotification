@@ -1,7 +1,7 @@
 ## Install
 
 ```bash
-yarn add @eaprules/easy-notification
+yarn add @revolt-digital/use-notification
 ```
 
 create a file called 'firebase-messaging-sw.js; in the built folder (ex: public folder)
